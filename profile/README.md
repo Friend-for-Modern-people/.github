@@ -1,3 +1,3 @@
 # FRIMO/README.MD
 
-##FRIend for MOdern people.
+## FRIend for MOdern people.
