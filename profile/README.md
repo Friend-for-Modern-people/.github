@@ -1,4 +1,4 @@
-# FRIMO/README.MD
+# README
 
 ## **FRI**end for **MO**dern people.
 
