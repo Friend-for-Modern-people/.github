@@ -2,8 +2,16 @@
 
 ## **FRI**end for **MO**dern people.
 
-Our goal is to become the **friend** that you can talk comfortly at anytime.<br>
-By using this application, we expect people to ease their stress, lonelyness.<br>
+**FRIMO** is a application that automatically records user's day.<br>
+You can chat with any friend in FRIMO,<br>
+the friend will symphathize with you.<br>
+<br>
+At the end of the day,<br>
+the conversation that you had with *friend* will be summarized.<br>
+The outcome is a form of a simple diary.<br>
+<br>
+We expect people to ease their stress of the day,<br>
+and to get a automatically generated diary.<br>
 
 ### Main Feature
 
