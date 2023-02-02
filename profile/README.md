@@ -1,5 +1,7 @@
 # README
 
+<img src="./img/LOGO.png" width=200px height=200px>
+
 ## **FRI**end for **MO**dern people.
 
 **FRIMO** is a application that automatically records user's day.<br>
