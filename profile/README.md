@@ -1,6 +1,6 @@
 # README
 
-<img src="./imgs/LOGO.PNG" width=200px height=200px>
+<img src="./profile/imgs/LOGO.PNG" width=200px height=200px>
 
 ## **FRI**end for **MO**dern people.
 
